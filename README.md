@@ -35,7 +35,8 @@ Below is the data description:
 
 ## **Method**
 Jupyter notebook was used in the analysis of the data. Having cleaned and scrubbed the data, Ordinary Least Squares was used in the modelling. The following were the variables that made it to  the modelling stage. They are shown in the correlation heatmap below.
-![image](https://user-images.githubusercontent.com/104361809/176821150-4e78daa5-f74b-4df3-bae4-a3c153e26143.png)
+![image](https://user-images.githubusercontent.com/104361809/176822062-9181946c-0e9f-40d1-8503-4d2e3b97eab7.png)
+
 
 ## **Results**
 From the moddelling, the final model selected included the followin features: ```sqft_living```, ```floors```, ```bedrooms```, ```Cond_5```, ```Cond_2``` and ```Cond_1```. The p-value of the the model was below 0.05 meaning that the features were statistically significant. The r-squared of this model was 48.2%.
