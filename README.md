@@ -5,7 +5,7 @@ The agency needs to understand what factors have an effect on the house prices a
 To be able to determine the factors that affect the prices of houses, the ```kc_house_data.csv``` will be used to carry out an analysis in order to provide the optimal advice.
 
 ## **Objective**
-To find out the factors that influence house prices.
+To find out the factors that influence house prices and by how much.
 
 ## **Data Understanding**
 The dataset to be used is found in ```kc_house_data.csv```. The data is from house prices in King County.
